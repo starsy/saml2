@@ -1,0 +1,17 @@
+{
+  "name": "saml2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "nodemon main.js"
+  },
+  "keywords": [
+    "saml2"
+  ],
+  "dependencies": {
+    "express": "^4.15.4",
+    "nodemon": "^1.11.0",
+    "saml2-js": "^1.12.2"
+  }
+}
